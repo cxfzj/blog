@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-tsx",
+    "path": "/",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"number":2,"title":"rgd.yml","updatedAt":"2022-03-24T02:10:04Z","author":{"avatarUrl":"https://avatars.githubusercontent.com/u/102222277?u=152bfaa15b8b95a17cf7954848efb6498f50b986&v=4","login":"cxfzj","url":"https://github.com/cxfzj"},"category":{"name":"General","isAnswerable":false,"emoji":":speech_balloon:"}}},{"node":{"number":1,"title":"Welcome to gatsby-github-template Discussions!","updatedAt":"2022-03-23T11:18:11Z","author":{"avatarUrl":"https://avatars.githubusercontent.com/u/102222277?u=152bfaa15b8b95a17cf7954848efb6498f50b986&v=4","login":"cxfzj","url":"https://github.com/cxfzj"},"category":{"name":"Announcements","isAnswerable":false,"emoji":":mega:"}}}]}},"pageContext":{}},
+    "staticQueryHashes": ["1246507300"]}
