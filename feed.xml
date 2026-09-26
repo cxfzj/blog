@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>RSS</title>
+  <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+  <link>/</link>
+  <description>GitHub Discussions</description>
+  <item>
+  <title><![CDATA[rgd.yml]]></title>
+  <link>https://github.com/cxfzj/blog/discussions/2</link>
+  <guid isPermaLink="false">https://github.com/cxfzj/blog/discussions/2</guid>
+  <pubDate>2022-03-24</pubDate>
+  <description><![CDATA[<div class="highlight highlight-source-yaml notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="owner: cxfzj
+repo: blog
+
+logo: https://avatars.githubusercontent.com/u/102222277?v=4
+title: cxfzj's blog
+description: cxfzj's blog
+
+### PWA Manifest ###
+manifest:
+  name: FZJ
+  short_name: FZJ
+  start_url: /
+  background_color: &quot;#fafafa&quot;
+  theme_color: &quot;#232629&quot;
+  display: standalone
+  icon: https://avatars.githubusercontent.com/u/102222277?v=4"><pre class="notranslate"><span class="pl-ent">owner</span>: <span class="pl-s">cxfzj</span>
+<span class="pl-ent">repo</span>: <span class="pl-s">blog</span>
+
+<span class="pl-ent">logo</span>: <span class="pl-s">https://avatars.githubusercontent.com/u/102222277?v=4</span>
+<span class="pl-ent">title</span>: <span class="pl-s">cxfzj's blog</span>
+<span class="pl-ent">description</span>: <span class="pl-s">cxfzj's blog</span>
+
+<span class="pl-c"><span class="pl-c">#</span>## PWA Manifest ###</span>
+<span class="pl-ent">manifest</span>:
+  <span class="pl-ent">name</span>: <span class="pl-s">FZJ</span>
+  <span class="pl-ent">short_name</span>: <span class="pl-s">FZJ</span>
+  <span class="pl-ent">start_url</span>: <span class="pl-s">/</span>
+  <span class="pl-ent">background_color</span>: <span class="pl-s"><span class="pl-pds">"</span>#fafafa<span class="pl-pds">"</span></span>
+  <span class="pl-ent">theme_color</span>: <span class="pl-s"><span class="pl-pds">"</span>#232629<span class="pl-pds">"</span></span>
+  <span class="pl-ent">display</span>: <span class="pl-s">standalone</span>
+  <span class="pl-ent">icon</span>: <span class="pl-s">https://avatars.githubusercontent.com/u/102222277?v=4</span></pre></div>]]></description>
+</item>
+<item>
+  <title><![CDATA[Welcome to gatsby-github-template Discussions!]]></title>
+  <link>https://github.com/cxfzj/blog/discussions/1</link>
+  <guid isPermaLink="false">https://github.com/cxfzj/blog/discussions/1</guid>
+  <pubDate>2022-03-23</pubDate>
+  <description><![CDATA[
+<h2 dir="auto">👋 Welcome!</h2>
+<p dir="auto">We’re using Discussions as a place to connect with other members of our community. We hope that you:</p>
+<ul dir="auto">
+<li>Ask questions you’re wondering about.</li>
+<li>Share ideas.</li>
+<li>Engage with other community members.</li>
+<li>Welcome others and are open-minded. Remember that this is a community we<br>
+build together 💪.</li>
+</ul>
+<p dir="auto">To get started, comment below with an introduction of yourself and tell us about what you do with this community.</p>
+]]></description>
+</item>
+
+</channel>
+</rss>
